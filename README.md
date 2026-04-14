@@ -38,7 +38,7 @@ Access the deployed app here:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/zainkarim/lexigo.git
+git clone https://github.com/WanKim00/Lexigo.git
 cd lexigo
 npm install
 npm start
@@ -61,9 +61,6 @@ Ensure you have the Firebase CLI installed and are logged in to your Firebase ac
 
 Lexigo uses the [Free Dictionary API](https://dictionaryapi.dev/) to fetch word definitions, phonetics, parts of speech, and example usage. All dictionary data shown in the app is retrieved from this open-source API.
 
-## 📁 Repository
-
-Source code: https://github.com/zainkarim/lexigo
 
 ## 📄 License
 
