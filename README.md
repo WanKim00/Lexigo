@@ -2,6 +2,17 @@
 
 📖 Lexigo is a gamified dictionary web app that helps users look up and learn new words. Designed to be both functional and educational, Lexigo provides tools such as flashcards and quizzes to reinforce vocabulary learning. Users can log in, search for word definitions, and save their favorite words for later review.
 
+## Screenshots
+### Dashboard
+<img width="700" alt="Screenshot 2026-04-14 at 5 34 07 PM" src="https://github.com/user-attachments/assets/cc976d4e-fef8-46d6-ada6-89e374c793ab" />
+
+### Flashcards
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/00a6d654-ea21-49de-8507-d0881c184859" />
+
+### Favorites
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/78ea7ef1-6aa8-4de3-9156-0291667c1904" />
+
+
 ## 🌐 Live Demo
 
 Access the deployed app here:  
@@ -13,11 +24,12 @@ Access the deployed app here:
 - ⭐ **Favorites List** – Save words you want to revisit later.
 - 🧠 **Flashcards & Quizzes** – Practice and test your vocabulary knowledge.
 - 🔐 **User Authentication** – Secure login with Firebase Authentication.
-
+- 📅 **Word of the Day** – Daily vocabulary suggestions to expand your knowledge
+  
 ## 🛠️ Tech Stack
 
-- **Frontend**: React Native (Web)
-- **Backend/Storage**: Firebase (Authentication & Firestore)
+- **Frontend**: React (Web)
+- **Backend/Database**: Firebase (Authentication & Firestore)
 - **Deployment**: Firebase Hosting
 - **Package Manager**: npm
 
