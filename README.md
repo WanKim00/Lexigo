@@ -61,11 +61,6 @@ Ensure you have the Firebase CLI installed and are logged in to your Firebase ac
 
 Lexigo uses the [Free Dictionary API](https://dictionaryapi.dev/) to fetch word definitions, phonetics, parts of speech, and example usage. All dictionary data shown in the app is retrieved from this open-source API.
 
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 Made with 💡 by the Lexigo Team
